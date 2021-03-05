@@ -12,6 +12,8 @@
 /*********** Pins & Variables **************/
 //.añado aqui algo.//
 
+
+// ... nueva linea //
  
 // Leds RGB connected to Arduino UNO IN  PIN R G B
   const int R = 3;
