@@ -10,7 +10,7 @@
 */
 
 /*********** Pins & Variables **************/
-//..//
+//.añado aqui algo.//
 
  
 // Leds RGB connected to Arduino UNO IN  PIN R G B
